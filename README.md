@@ -1,6 +1,6 @@
-# ListFilter
+# List Filter
 
-**TODO: Find even numbers by filtering a list**
+**TODO: Find how many odd numbers there are by filtering a list**
 
 ## Installation
 
